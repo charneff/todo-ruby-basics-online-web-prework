@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue (persons_name)
-  return (persons_name)
+  persons_name
 end
 
 def greeting(name, phrase)
