@@ -11,7 +11,7 @@ def argue (persons_name)
 end
 
 def greeting(name, phrase)
-
+  puts "#{phrase} #{name}"
 end
 
 def return_a_value
